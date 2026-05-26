@@ -63,7 +63,7 @@ Status   : 🎯 Focusing & Growing Every Day
 
 | Project | Description | Tech |
 |--------|-------------|------|
-| [flask- Framework](https://github.com/Anshu-771/C-plus-plus) | Inventory management system to track and manage inventory | Python |
+| [flask- Framework](https://github.com/Anshu-771/AK_Inventory_-System) | Inventory management system to track and manage inventory | Python |
 | [C-plus-plus](https://github.com/Anshu-771/C-plus-plus) | OOP & C++ concepts with practical implementations | C++ |
 | [Currency-converter](https://github.com/Anshu-771/Currency-converter) | Real-time currency conversion web tool | CSS/HTML |
 | [Python-PICKMAX](https://github.com/Anshu-771/Python-PICKMAX) | Python utility project | Python |
