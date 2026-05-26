@@ -20,7 +20,7 @@ Focus    : DSA • OOPs • Web Development • Open Source
 Status   : 🎯 Focusing & Growing Every Day
 ```
 
-- 🔭 Currently working on **real-world projects** using C++, Python & TypeScript  
+- 🔭 Currently working on **real-world projects** using Python, C++, Java & TypeScript  
 - 🌱 Learning **Advanced DSA**, System Design & Web Dev  
 - 💬 Ask me about **C++, OOPs, Python, or Data Structures**  
 - ⚡ Fun fact: I believe **clean code = clear thinking**  
